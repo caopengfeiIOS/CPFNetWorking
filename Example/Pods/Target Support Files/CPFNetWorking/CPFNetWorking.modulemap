@@ -1,0 +1,6 @@
+framework module CPFNetWorking {
+  umbrella header "CPFNetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}
